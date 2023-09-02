@@ -9,6 +9,7 @@ rewriten example from [here](https://github.com/microsoft/Windows-classic-sample
 [httpwebsockets_ref.pas](https://github.com/delphius/websockets/blob/main/windows/httpwebsockets_ref.pas) - in procedural style
 
 
+
 websockets.dll - [Overview](https://learn.microsoft.com/en-us/windows/win32/websock/web-socket-protocol-component-api-portal?source=recommendations)
 
 rewriten example from [here](https://github.com/microsoft/Windows-classic-samples/tree/main/Samples/Websocket)
