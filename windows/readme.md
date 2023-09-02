@@ -4,7 +4,7 @@ winhttp.dll - [Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine
 
 [httpwebsockets.pas](https://github.com/delphius/websockets/blob/main/windows/httpwebsockets.pas) - plain style
 
-httpwebsockets_ref.pas - procedural style
+[httpwebsockets_ref.pas](https://github.com/delphius/websockets/blob/main/windows/httpwebsockets_ref.pas) - procedural style
 
 websockets.dll
 
