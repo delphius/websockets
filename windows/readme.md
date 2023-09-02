@@ -18,4 +18,4 @@ websocket.dll provides support for client and server handshake related HTTP head
 
 But based on this example, you can understand how the protocol functions or use it for low-level message encoding/decoding and establishing a connection (handshake)
 
-[websocket.pas](windows/websockets.dll/websocket.pas) is a pascal wraper to websocket.dll
+[websocket.pas](https://github.com/delphius/websockets/blob/main/windows/websockets.dll/websocket.pas) is a pascal wraper to websocket.dll
