@@ -8,7 +8,10 @@ rewriten example from [here](https://github.com/microsoft/Windows-classic-sample
 
 [httpwebsockets_ref.pas](https://github.com/delphius/websockets/blob/main/windows/httpwebsockets_ref.pas) - in procedural style
 
+
 websockets.dll - [Overview](https://learn.microsoft.com/en-us/windows/win32/websock/web-socket-protocol-component-api-portal?source=recommendations)
+
+rewriten example from [here](https://github.com/microsoft/Windows-classic-samples/tree/main/Samples/WinhttpWebsocket)
 
 websocket.dll provides support for client and server handshake related HTTP headers, verifies received handshake data, and parses the WebSocket data stream. It **does not handle** any HTTP-specific operations (redirection, authentication, proxy support) **nor perform any I/O operations** (sending or receiving WebSocket stream bytes).
 
