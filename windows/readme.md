@@ -6,5 +6,4 @@ winhttp.dll - [Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine
 
 [httpwebsockets_ref.pas](https://github.com/delphius/websockets/blob/main/windows/httpwebsockets_ref.pas) - procedural style
 
-websockets.dll
-
+websockets.dll - pascal rewriten example of https://github.com/microsoft/Windows-classic-samples/tree/main/Samples/WinhttpWebsocket
