@@ -10,6 +10,6 @@ rewriten example from [here](https://github.com/microsoft/Windows-classic-sample
 
 websockets.dll - [Overview](https://learn.microsoft.com/en-us/windows/win32/websock/web-socket-protocol-component-api-portal?source=recommendations)
 
-websocket.dll provides support for client and server handshake related HTTP headers, verifies received handshake data, and parses the WebSocket data stream. It does not handle any HTTP-specific operations (redirection, authentication, proxy support) nor perform any I/O operations (sending or receiving WebSocket stream bytes).
+websocket.dll provides support for client and server handshake related HTTP headers, verifies received handshake data, and parses the WebSocket data stream. It **does not handle** any HTTP-specific operations (redirection, authentication, proxy support) **nor perform any I/O operations** (sending or receiving WebSocket stream bytes).
 
 But based on this example, you can understand how the protocol functions or use it for low-level encoding/decoding and establishing a connection (handshake)
