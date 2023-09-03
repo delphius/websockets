@@ -2,6 +2,10 @@
 
 ## winhttp.dll - [Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/december/windows-8-networking-windows-8-and-the-websocket-protocol)
 
+This sample demonstrates how to use the WinHTTP API to send and receive messages between a client and a server by using the WebSocket protocol.
+
+The sample performs each step required to use the WebSocket connection. First, it creates the session, connection and request handles to open a HTTP connection. It then requests to upgrade the protocol from HTTP to the WebSocket protocol. The WebSocket handshake is performed by sending a request and receiving the appropriate response from the server. Data is then sent and received using the WebSocket protocol, and checks are made to ensure the complete message is transmitted. Finally, the connection is closed, and the close status and reason are confirmed.
+
 rewriten example from [here](https://github.com/microsoft/Windows-classic-samples/tree/main/Samples/WinhttpWebsocket)
 
 [httpwebsockets.pas](https://github.com/delphius/websockets/blob/main/windows/httpwebsockets.pas) - in plain style
