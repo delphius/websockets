@@ -16,6 +16,8 @@ rewriten example from [here](https://github.com/microsoft/Windows-classic-sample
 
 ## websockets.dll - [Overview](https://learn.microsoft.com/en-us/windows/win32/websock/web-socket-protocol-component-api-portal?source=recommendations)
 
+This sample demonstrates how to use Web Socket Protocol Component APIs.
+
 rewriten example from [here](https://github.com/microsoft/Windows-classic-samples/tree/main/Samples/Websocket)
 
 [winwebsockets.pas](https://github.com/delphius/websockets/blob/main/windows/websockets.dll/winwebsockets.pas) - in procedural style
