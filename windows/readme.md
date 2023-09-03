@@ -6,7 +6,7 @@ This sample demonstrates how to use the WinHTTP API to send and receive messages
 
 rewriten example from [here](https://github.com/microsoft/Windows-classic-samples/tree/main/Samples/WinhttpWebsocket)
 
-[httpwebsockets.pas](https://github.com/delphius/websockets/blob/main/windows/httpwebsockets.pas) - in plain style
+[httpwebsockets.pas](https://github.com/delphius/websockets/blob/main/windows/httpwebsockets.pas) - in linear style
 
 [httpwebsockets_ref.pas](https://github.com/delphius/websockets/blob/main/windows/httpwebsockets_ref.pas) - in procedural style
 
